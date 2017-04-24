@@ -1,0 +1,15 @@
+
+	<h4 style="color:white">Product:-> {{cat}}</h4>
+  <div ng-repeat="reqdet in proDetails " class="mobile">
+  	
+           <p class="mobleft"><span style="padding-left: 15px;padding-right:25px;color:black">Product Name :</span> {{reqdet.name}}</p>
+           <p class="mobright">Rs {{reqdet.price}}</p>
+            <p style="clear:both"><span style="padding-left: 15px;padding-right:7px;color:black">Product Category :</span> :{{reqdet.category}}</p>
+           <p ><span style="padding-left: 15px;color:black">Product description :</span>{{reqdet.description}}</p>
+			<button style="margin:15px" ng-click="more(reqdet)" class="btn btn-default">view more</button>
+   </div>
+
+
+
+
+
