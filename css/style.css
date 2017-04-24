@@ -1,0 +1,103 @@
+.body
+{
+	 background-color: black; /* W3C */
+}
+.c
+{
+	background: linear-gradient(90deg, #134E5E 10%, #71B280 90%) repeat;
+	
+}
+button
+{
+	background: green;
+	color: red;
+}
+h4
+{
+	color: white;
+}
+.store
+{
+	font-size: 2em;
+	padding: 35px;
+}
+.home
+{
+	font-size: 2em;
+	padding: 6px;
+	cursor: pointer;
+}
+.nav
+{
+	float: right;
+}
+.nav_left
+{
+	float: left;
+}
+.selb
+{
+	background-color: #2e2e2e;
+	border: hidden;
+}
+#header
+{
+	padding: 16px;
+	background-color: #2e2e2e;
+	color: white
+
+}
+.border
+{
+	border: 1px solid black;
+	margin-top: 1px;
+	cursor: pointer;
+}
+.mobile
+{
+	border: 1px solid black;
+	margin: 5px;
+	background-color: gray;
+	color: white;
+
+}
+.mobleft
+{
+	float: left;
+	padding: 5px;
+}
+.mobright
+{
+	float: right;
+	margin-right: 100px;
+	
+
+}
+.footer
+{
+	background-color:  #2e2e2e;
+	height: 40px;
+	clear: both;
+	color: white;
+}
+.footercontent
+{
+	padding: 29px;
+  display: inline-block;
+  text-transform: uppercase;
+}
+.banner-footer {
+
+bottom: 0;
+position: fixed;
+width: 83%;
+height: 70px;
+clear: both;
+margin: 10px 0 10px 0 ;
+
+}
+.figure
+{
+	width: 100%;
+	height: 85%;
+}

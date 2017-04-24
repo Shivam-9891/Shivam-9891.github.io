@@ -1,0 +1,161 @@
+.top
+{
+ 
+top: 61px;
+left: 184px;
+width: 70%;
+position: absolute;
+}
+.opa
+{
+    background-color: #525252;
+    opacity: 0.92;
+height: 100%;
+position: absolute;
+top: -4px;
+width: 85%;
+}
+.resource-container
+{
+    /*width:955px;*/
+    width:995px;
+    margin:0 auto;
+}
+.header
+{
+    background-color:#0d9c49;
+    color:#f7f7f7;
+    padding:12px
+}
+/*body
+{
+    background-color:#f7f7f7;
+}*/
+.profile
+{
+    color:#555555;
+    text-decoration:underline;
+    margin:8px 0 0 96px;
+    display:block;
+}
+.desig
+{
+    color:#b2b2b2;
+   /* margin:23px 0 0 63px;*/
+    display:inline-block;
+
+}
+.sel
+{
+    width:223px;
+    height:27px;
+}
+.sel1
+{
+    width:220px;
+    height:20px;
+    margin-top: 10px;
+}
+.exp
+{
+    padding: 23px 0 0 13px;
+    display: inline-block;
+    color:#b2b2b2;
+}
+.num
+{
+    padding:23px 0 0 80px;
+    color:#b2b2b2;
+    display:inline-block;
+
+}
+.skill
+{
+    padding:23px 0 0 102px;
+    color:#b2b2b2;
+    display:inline-block;
+}
+.chk
+{
+    margin: 23px 0 0 147px;
+}
+.compentency
+{
+    padding: 23px 0 0 55px;
+    color:#b2b2b2;
+    display: inline-block;
+}
+.pos
+{
+    padding: 23px 0 0 82px;
+    color:#b2b2b2;
+    display: inline-block;
+}
+.radio1
+{
+    margin-left:43px;
+}
+.loc
+{
+    padding: 23px 0 0 77px;
+    color:#b2b2b2;
+    display: inline-block;
+}
+.save
+{
+    width: 77px;
+    border: 1px solid blue;
+    border-radius: 4px;
+    /* padding: 66px; */
+    /* margin: 40px; */
+    margin: 46px 0 0 198px;
+    height:30px;
+    font-weight: bold;
+}
+.req
+{
+    
+    display:inline-block;
+    color:white;
+    text-decoration:underline;
+}
+table, th, td {
+    border: 1px solid #b7b6b5;
+    border-collapse: collapse;
+    margin-top:15px;
+    
+    text-align: center;
+}
+.th
+{
+    background-color:#e4e4e2;
+  
+    
+    text-align:center;
+}
+.thEdit
+{
+    padding: 0 86px 0 86px;
+    background-color:#e4e4e2;
+}
+.thNo
+{
+    padding: -5px;
+    background-color:#e4e4e2;
+}
+.desg
+{
+    padding: 0 70px
+}
+.entries td
+{
+    padding: 9px 9px 9px 9px;
+}
+.back
+{
+    background-color:#faf9f7;
+}
+.bold
+{
+    font-weight:bold
+}
