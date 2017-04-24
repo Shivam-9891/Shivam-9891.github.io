@@ -1,0 +1,34 @@
+[
+    {
+        "reqid":"P001",
+        "name":"nokia100",
+
+        "price":"1200",
+        "category":"Mobile",
+        "brand":"nokia",
+        "description":"description",
+      "launch":"21/07/1992"
+    },
+    
+     {
+        "reqid":"P002",
+        "name":"moto g",
+
+        "price":"12000",
+        "category":"Mobile",
+        "brand":"motorola",
+        "description":"description",
+      "launch":"21/08/2006"
+    },
+    {
+        "reqid":"P003",
+        "name":"ABC",
+
+        "price":"1200",
+        "category":"book",
+        "brand":"nokia",
+        "description":"description",
+      "launch":"21/07/1992"
+    }
+
+]
